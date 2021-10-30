@@ -1,3 +1,14 @@
+/**
+ * Primitive Types In Javascript
+ * 1) Number
+ * 2) String
+ * 3) Boolean
+ * 4) Object
+ * 5) Function
+ *
+ */
+
+
 // Integer
 var variable = 10;
 console.log(variable);
