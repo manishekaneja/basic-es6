@@ -45,3 +45,12 @@ console.log(newArray);
 // Rest in Array
 const [x, y, ...rest] = myArray;
 console.log({ x, y, rest });
+
+// Spread a Set
+const sets = new Set();
+sets.add(10);
+sets.add(20);
+sets.add(30);
+
+// Convert a set to an array
+const newArrayFromSet = [...sets] 
