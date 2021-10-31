@@ -19,3 +19,11 @@ sets.add(10);
 console.log(sets);
 console.log([...sets]);
 console.log(sets.values());
+
+
+
+/**
+ * Other Types of Data Structure of JS includes 
+ * 1) Weak Hash
+ * 2) Weak Set
+ */
