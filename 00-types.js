@@ -5,19 +5,16 @@
  * 3) Boolean
  * 4) Object
  * 5) Function
- *
  */
 
-
-// Integer
-var variable = 10;
+let variable = 10;
 console.log(variable);
 
-// Float / Decimal
+// Float/Decimal/Numbers
 variable = 0.1;
 console.log(variable);
 
-// Strings / Decimal
+// String
 variable = "string";
 console.log(variable);
 
@@ -27,12 +24,12 @@ console.log(variable);
 
 // Object
 variable = {
-  a: -1,
-  b: 1000,
+    a: -1,
+    b: 1000,
 };
 console.log(variable);
 
 // Function
 variable = function () {
-  console.log("I am a Function");
+    console.log("I am a Function");
 };
